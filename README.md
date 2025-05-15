@@ -83,7 +83,7 @@ Analisando brevemente as saídas dos programas é possível notar que todos tive
 - ![Figura 4](images/Rotas_Dijkstra_Simple.png)  
   **Figura 4** - Rotas do algoritmo de Dijkstra
 
-- ![Figura 5](images/Rotas_Min_Heap.png)  
+- ![Figura 5](images/Rotas_MinHeap.png)  
   **Figura 5** - Rotas do algoritmo de Dijkstra com Min-Heap
 
 - ![Figura 6](images/Rotas_OSM.png)  
