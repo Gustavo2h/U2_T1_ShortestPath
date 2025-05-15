@@ -7,7 +7,7 @@ Repositório criado para o primeiro projeto da segunda unidade da disciplina AED
 - Gustavo Pereira de Carvalho  
 - Matheus Bezerra Dantas Saraiva
 ---
-[Assista à apresentação em vídeo]([LINK do youtube](https://youtu.be/pSqTovg8-NY))
+[Assista à apresentação em vídeo]([Apresentação](https://youtu.be/pSqTovg8-NY))
 ---
 
 ## Descrição do Projeto
