@@ -70,23 +70,23 @@ Esses bairros foram selecionados considerando o número de habitantes e fluxo de
 
 <img src="images/DijkstraOUT.png" alt="Figura 1" width="500">
    - Saída do algoritmo de Dijkstra
-
+---
 <img src="images/Min-HeapOUT.png" alt="Figura 2" width="500">
   - Saída do algoritmo de Dijkstra com Min-Heap
-
+---
 <img src="images/OSMOUT.png" alt="Figura 3" width="500">
   - Saída utilizando funções do OSMnx
-
+---
 ### Rotas Geradas
 
 Analisando brevemente as saídas dos programas é possível notar que todos tiveram resultados parecidos, o que antecipa que os caminhos escolhidos serão semelhantes. Tal hipótese é confirmada pelos gráficos plotados que mostram as rotas traçadas por cada algoritmo.
 
 <img src="images/Rotas_Dijkstra_Simple.png" alt="Figura 4" width="500">
   - Rotas do algoritmo de Dijkstra
-
+---
 <img src="images/Rotas_MinHeap.png" alt="Figura 5" width="500">
    - Rotas do algoritmo de Dijkstra com Min-Heap
-
+---
 <img src="images/Rotas_OSM.png" alt="Figura 6" width="500">
    - Rotas utilizando funções do OSMnx
 
@@ -100,7 +100,7 @@ Para isso, foram plotados gráficos que relacionam, respectivamente, o tempo de 
 
 <img src="images/exeTime.png" alt="Figura 7" width="500">
    - Tempos de execução
-
+---
 <img src="images/Co2.png" alt="Figura 8" width="500">
   - Emissão de CO₂
 
