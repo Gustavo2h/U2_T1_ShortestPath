@@ -73,7 +73,7 @@ Esses bairros foram selecionados considerando o número de habitantes e fluxo de
 - ![Figura 2](images/Min-HeapOUT.png)  
   **Figura 2** - Saída do algoritmo de Dijkstra com Min-Heap
 
-- ![Figura 3](images/OSMnxOUT.png)  
+- ![Figura 3](images/OSMOUT.png)  
   **Figura 3** - Saída utilizando funções do OSMnx
 
 ### Rotas Geradas
