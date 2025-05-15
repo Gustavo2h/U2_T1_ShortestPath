@@ -110,7 +110,9 @@ Para isso, foram plotados gráficos que relacionam, respectivamente, o tempo de 
 
 <img src="images/exeTime.png" alt="Figura 7" width="500">
    - Tempos de execução
+   
 ---
+
 <img src="images/Co2.png" alt="Figura 8" width="500">
   - Emissão de CO₂
 
