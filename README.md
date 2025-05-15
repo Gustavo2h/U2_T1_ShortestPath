@@ -6,7 +6,8 @@ Repositório criado para o primeiro projeto da segunda unidade da disciplina AED
 ## Alunos
 - Gustavo Pereira de Carvalho  
 - Matheus Bezerra Dantas Saraiva
-
+---
+[Assista à apresentação em vídeo](LINK do youtube)
 ---
 
 ## Descrição do Projeto
