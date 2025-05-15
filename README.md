@@ -69,26 +69,26 @@ Esses bairros foram selecionados considerando o número de habitantes e fluxo de
 ### Saídas dos Algoritmos
 
 <img src="images/DijkstraOUT.png" alt="Figura 1" width="500">
-  **Figura 1** - Saída do algoritmo de Dijkstra
+   - Saída do algoritmo de Dijkstra
 
 <img src="images/Min-HeapOUT.png" alt="Figura 2" width="500">
-  **Figura 2** - Saída do algoritmo de Dijkstra com Min-Heap
+  - Saída do algoritmo de Dijkstra com Min-Heap
 
 <img src="images/OSMOUT.png" alt="Figura 3" width="500">
-  **Figura 3** - Saída utilizando funções do OSMnx
+  - Saída utilizando funções do OSMnx
 
 ### Rotas Geradas
 
 Analisando brevemente as saídas dos programas é possível notar que todos tiveram resultados parecidos, o que antecipa que os caminhos escolhidos serão semelhantes. Tal hipótese é confirmada pelos gráficos plotados que mostram as rotas traçadas por cada algoritmo.
 
 <img src="images/Rotas_Dijkstra_Simple.png" alt="Figura 4" width="500">
-  **Figura 4** - Rotas do algoritmo de Dijkstra
+  - Rotas do algoritmo de Dijkstra
 
 <img src="images/Rotas_MinHeap.png" alt="Figura 5" width="500">
-  **Figura 5** - Rotas do algoritmo de Dijkstra com Min-Heap
+   - Rotas do algoritmo de Dijkstra com Min-Heap
 
 <img src="images/Rotas_OSM.png" alt="Figura 6" width="500">
-  **Figura 6** - Rotas utilizando funções do OSMnx
+   - Rotas utilizando funções do OSMnx
 
 ---
 
@@ -99,10 +99,10 @@ Como era esperado, as rotas traçadas são semelhantes, nos levando a decidir so
 Para isso, foram plotados gráficos que relacionam, respectivamente, o tempo de execução de cada algoritmo em segundos e sua emissão de CO₂ em Kg de CO₂.
 
 <img src="images/exeTime.png" alt="Figura 7" width="500">
-  **Figura 7** - Tempos de execução
+   - Tempos de execução
 
 <img src="images/Co2.png" alt="Figura 8" width="500">
-  **Figura 8** - Emissão de CO₂
+  - Emissão de CO₂
 
 ---
 
